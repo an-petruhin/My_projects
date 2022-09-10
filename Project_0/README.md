@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/an-petruhin/My_projects/tree/main/Project_0#результаты)    
+[5. Результаты](https://github.com/an-petruhin/My_projects/tree/main/Project_0#результаты)    
 [6. Выводы](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Выводы)
 
 ### Описание проекта    
