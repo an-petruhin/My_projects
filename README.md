@@ -4,7 +4,7 @@ From the [SkillFactory Data science course](http://skillfactory.ru/data-scientis
 
 # Проекты
 
-* [Проект 0. Угадай число](https://github.com/an-petruhin/Prediction_of_number/tree/main/Проект%200.%20Угадай%20число)
+* [Проект 0. Угадай число](https://github.com/an-petruhin/Prediction_of_number/tree/main/Project%200.%20Predict_number)
 
 
 # Проект 0. Угадай число
