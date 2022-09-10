@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Результат)    
+[5. Результат](https://github.com/an-petruhin/My_projects/tree/main/Project_0#результаты)    
 [6. Выводы](https://github.com/an-petruhin/My_projects/tree/main/Project_0#Выводы)
 
 ### Описание проекта    
@@ -44,6 +44,7 @@
 Убедившись на практике в превосходстве алгоритма бинарного поиска над поиском методом случайного угадывания чисел, выбор пал именно на него
 
 4. Реализация решения
+
 :arrow_up:[к оглавлению](https://github.com/an-petruhin/My_projects/tree/main/Project_0#оглавление)
 
 
@@ -59,4 +60,4 @@
 :arrow_up:[к оглавлению](https://github.com/an-petruhin/My_projects/tree/main/Project_0#оглавление)
 
 
-;arrow_up:[назад к проектам](https://github.com/an-petruhin/My_projects#проекты)
+:arrow_up:[назад к проектам](https://github.com/an-petruhin/My_projects#проекты)
